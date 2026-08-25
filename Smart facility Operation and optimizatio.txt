@@ -1,1 +1,3 @@
 Smart facility Operation and optimization
+
+The AI agent collects data from sensors and facility systems, analyze it , decides what action is needed
